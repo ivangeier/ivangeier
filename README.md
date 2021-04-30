@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ivan Geier</h1>
-<h3 align="center">FullStack student</h3>
+<h3 align="center">Full Stack student</h3>
 
 - 🔭  I’m currently learning **JavaScript, Node, React and more...**
 
