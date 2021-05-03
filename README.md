@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ivan Geier</h1>
-<h3 align="center">Full Stack student</h3>
+<h3 align="center">Full Stack Student</h3>
 
-- 🔭  I’m currently learning **JavaScript, Node, React and more...**
+- 🌱  I’m currently learning **JavaScript, Node, React and more...**
 
 - 📫  How to reach me **vilajr.ivan@gmail.com**
 
