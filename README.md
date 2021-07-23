@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ivan Geier</h1>
 <h3 align="center">Web Developer Student</h3>
 
-- 🌱  I’m currently learning ** JavaScript and React **
+- 🌱  I’m currently learning ** Front-end (HTML, CSS and JS) **
 
 - 📫  How to reach me **vilajr.ivan@gmail.com**
 
