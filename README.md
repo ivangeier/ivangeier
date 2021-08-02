@@ -2,7 +2,9 @@
 <h3>Web Developer Student</h3>
 <p>Learning Front-end<p>
   <br>
-<p>Contact me at vilajr.ivan@gmail.com<p>
+<a href="mailto:vilajr.ivan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <a/>
+<a href="https://www.linkedin.com/in/ivan-geier-b3603244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+<p>Contact me at: vilajr.ivan@gmail.com<p>
 
 ##
 
