@@ -7,8 +7,8 @@
 ##
 
 <br>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=ivangeier&show_icons=true&theme=dark" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangeier&theme=blue-green" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivangeier&show_icons=true&theme=dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivangeier&theme=blue-green" />
 <br>
  
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> 
