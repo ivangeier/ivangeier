@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Ivan Geier</h1>
+<h1>Hey, I'm Ivan Geier</h1>
 <h3>Web Developer Student</h3>
 <p>Learning Front-end<p>
   <br>
