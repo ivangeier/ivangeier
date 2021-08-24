@@ -1,7 +1,7 @@
 <h1>Hey, I'm Ivan Geier</h1>
 
 <h3>Web Developer</h3>
-<p>Front-end<p>
+<p>Front-end (HTML | CSS | JS)<p>
 <p>Looking for my first job<p> 
  
 ##
