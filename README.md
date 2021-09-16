@@ -2,6 +2,8 @@
 
 <h3>Web Developer</h3>
 <p>Front-end (HTML | CSS | JS)<p>
+<p>Learning Node JS and React</p>
+
 <p>Looking for my first job<p> 
  
 ##
