@@ -10,6 +10,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </div>
  
+<br>
 <p>Looking for my first job<p> 
  
 ##
