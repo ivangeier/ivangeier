@@ -11,7 +11,7 @@
 </div>
  
 <br>
-<p>Looking for my first job<p> 
+<p>Always learning something new!<p> 
  
 ##
 
