@@ -1,4 +1,4 @@
-<h1>Hey, I'm Ivan Geier</h1>
+<h1>Welcome! I'm Ivan Geier</h1>
 
 <h3>Web Developer</h3>
 
