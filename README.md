@@ -1,6 +1,6 @@
 <h1>Welcome! I'm Ivan Geier</h1>
 
-<h3>Full Stack Web Developer</h3>
+<h3>Back End Developer</h3>
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
