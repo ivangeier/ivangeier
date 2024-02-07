@@ -3,11 +3,10 @@
 <h3>Full Stack Developer</h3>
 
 <div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nest" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" alt="node logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-line-wordmark.svg" alt="nest logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line-wordmark.svg" alt="next logo logo" width="40" height="40"/>
 </div>
  
 <br>
