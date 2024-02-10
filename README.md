@@ -1,12 +1,10 @@
 <h1>Welcome! I'm Ivan Geier</h1>
 
-<h3>Full Stack Developer</h3>
+<h3>Node Back end Deveoper</h3>
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node logo" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" alt="nest logo" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next logo logo" width="40" height="40"/>
 </div>
  
 <br>
